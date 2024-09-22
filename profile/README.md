@@ -60,7 +60,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
 
 <h1 align="center"> Members </h1>
 
-<h1> 𝐌𝐚𝐢𝐧 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 </h1>
+<h1> 𝐌𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </h1>
  <table>
   <tbody>
     <tr>
@@ -69,7 +69,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
   </tbody>
 </table>
 
-<h1> 𝐆𝐚𝐦𝐞 𝐌𝐚𝐤𝐞𝐫 </h1>
+<h1> 𝐆𝐚𝐦𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </h1>
 <table>
   <tbody>
     <tr>
@@ -78,7 +78,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
   </tbody>
 </table>
 
-<h1> 𝐀𝐩𝐩 𝐌𝐚𝐤𝐞𝐫 </h1>
+<h1> 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </h1>
 <table>
   <tbody>
     <tr>
@@ -87,7 +87,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
   </tbody>
 </table>
 
-<h1> 𝐀𝐩𝐩 𝐌𝐚𝐤𝐞𝐫 </h1>
+<h1> 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </h1>
 <table>
   <tbody>
     <tr>
