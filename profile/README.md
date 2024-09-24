@@ -2,47 +2,47 @@
 <img width="100px" src="https://github.com/user-attachments/assets/f5d940ff-77ec-44ea-aa5f-cd136963d0e1" />
 </h3>
 
-<h1 align="center">Hey, we are <b><a target="_blank" href="https://github.com/UpperTechh">UpperTech</a></b>, Greetings!</h1>
+<h1 align="center">Olá, nós somos a <b><a target="_blank" href="https://github.com/UpperTechh">UpperTech</a></b>, Saudações!</h1>
 
 <p align="center">
-    「 About Us 」
+    「 Sobre nós 」
   <br>
-    「 Our company came with the intention of <b>Helping</b> and <b>Fulfilling</b> your problems and questions with the use of <b>Technology</b>」
+    「 Nossa empresa veio com a intenção de <b>Ajudar</b> e <b>Resolver</b> seus problemas e questionamentos com o uso da <b>Tecnologia</b>」
     <br>
     <br>
 </p>
 
-<h2 align="right">𝗢𝘂𝗿 𝗺𝗶𝘀𝘀𝗶𝗼𝗻</h2>
+<h2 align="right">𝐍𝐨𝐬𝐬𝐚 𝐦𝐢𝐬𝐬𝐚̃𝐨</h2>
 <img align="left" src='https://github.com/user-attachments/assets/f9e1e7ef-2238-4efb-b2af-207fa6699756' width='100'>
 <p align="left">
-We have the mission of being a company with wide availability of helping people out with digital services, for example: Math based apps(Calculators etc.), or minigames like TicTacToe. However, we also want to give you a relaxing experience within our applications.
+Nós temos a missão de ser uma empresa com uma grande disponibilidade de ajudar as pessoas com  serviços digitais, como por exemplo: aplicativos baseados em matemática (Calculadoras e etc.) ou joguinhos como o Jogo da Velha. Entretanto, nós também queremos te dar uma experiência relaxante com os nossos aplicativos.
 </p>
 
 </br>
 
-<h2 align="left">𝗢𝘂𝗿 𝘃𝗶𝘀𝗶𝗼𝗻</h2>
+<h2 align="left">𝐍𝐨𝐬𝐬𝐚 𝐯𝐢𝐬𝐚̃𝐨</h2>
 <img align="right" src='https://github.com/user-attachments/assets/96157b0b-469a-4d17-bbd7-0566cfdac44f' width='100'>
 <p align="left">
-We expect that our company in a short future could have the possibility to introduce people into technology, helping and giving them affinitty with the actual daily use of technology by giving them access to simple programs with multiuse fun interactions.
+Nós esperamos que nossa empresa em um futuro próximo possa ter a possibilidade de introduzir pessoas na tecnologia, ajudando elas e dando afinidade a elas com o uso da tecnologia diária por meio do acesso a programas simples com interações divertidas e de multiuso.
 </p>
 
 </br>
 
-<h2 align="right">𝗢𝘂𝗿 𝘃𝗮𝗹𝘂𝗲𝘀</h2>
+<h2 align="right">𝐍𝐨𝐬𝐬𝐨𝐬 𝐯𝐚𝐥𝐨𝐫𝐞𝐬</h2>
 <img align="left" src='https://github.com/user-attachments/assets/97addd60-92ef-442a-b42c-862241a7a651' width='100'>
 <p align="left">
-Our Principles are simple, we pretend to only change our way of seeing technology as a whole, with its progressive evolutions daily, we also have to keep moving forward to please you and everyone a better functional and otimized "Virtual Life".
+Nossos princípios são simples, nós pretendemos apenas mudar nosso meio de ver a tecnologia como um todo, com a evolução diária, nós devemos continuar caminhando para satisfazer você e todos a ter uma “Vida virtual” mais funcional e otimizada.
 </p>
-<p align="center"> ✉️ &emsp; Reach us anytime: Uppertechh@gmail.com<br/><br/> 
+<p align="center"> ✉️ &emsp; nos contate: Uppertechh@gmail.com<br/><br/> 
 </p>
 
 </br>
 
-<h2 align="center">𝐎𝐮𝐫 𝐌𝐚𝐢𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 💡</h2>
+<h2 align="center"> 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥💡</h2>
 
 <div align="center">
 
-_A project of a login screen, Calculator and a Game(TicTacToe). With the usage of the language JAVA and other components and methods._
+_um projeto de uma tela de login, calculadora e um jogo(jogo da velha). com o uso da linguagem JAVA e outros componentes e métodos._
 
 </br>
 
@@ -58,7 +58,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
 <br/>
 
 
-<h1 align="center"> Members </h1>
+<h1 align="center"> Membros </h1>
 
 <h1> 𝐌𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 </h1>
  <table>
