@@ -49,7 +49,7 @@ _A project of a login screen, Calculator and a Game(TicTacToe). With the usage o
 [![Totalitaire](https://github-readme-stats.vercel.app/api/pin/?username=UpperTechh&repo=ProjetoUpperTech&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFFFFF)](https://github.com/UpperTechh/ProjetoUpperTech)
 
 <p align="center">
-  <a href="https://github.com/UpperTechh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/orgs/UpperTechh/repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 </div>
